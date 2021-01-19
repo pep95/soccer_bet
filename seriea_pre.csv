@@ -1,0 +1,379 @@
+Column1;Column2;Column3;Column4;Column6
+Sat 19 Sep;Fiorentina;1 - 0;Torino;(0-0)
+Sun 20 Sep;Parma;0 - 2;Napoli;(0-0)
+Sun 20 Sep;Genoa;4 - 1;Crotone;(3-1)
+Sun 20 Sep;Sassuolo;1 - 1;Cagliari;(0-0)
+Sun 20 Sep;Juventus;3 - 0;Sampdoria;(1-0)
+Mon 21 Sep;AC Milan;2 - 0;Bologna;(1-0)
+Sat 26 Sep;Torino;2 - 4;Atalanta;(2-3)
+Sat 26 Sep;Cagliari;0 - 2;Lazio;(0-1)
+Sat 26 Sep;Sampdoria;2 - 3;Benevento;(2-1)
+Sat 26 Sep;Inter Milan;4 - 3;Fiorentina;(1-1)
+Sun 27 Sep;Spezia;1 - 4;Sassuolo;(1-1)
+Sun 27 Sep;Hellas Verona;1 - 0;Udinese;(0-0)
+Sun 27 Sep;Crotone;0 - 2;AC Milan;(0-1)
+Sun 27 Sep;Napoli;6 - 0;Genoa;(1-0)
+Sun 27 Sep;AS Roma;2 - 2;Juventus;(2-1)
+Mon 28 Sep;Bologna;4 - 1;Parma;(2-0)
+Wed 30 Sep;Benevento;2 - 5;Inter Milan;(1-4)
+Wed 30 Sep;Udinese;0 - 2;Spezia;(0-1)
+Wed 30 Sep;Lazio;1 - 4;Atalanta;(0-3)
+Fri 2 Oct;Fiorentina;1 - 2;Sampdoria;(0-1)
+Sat 3 Oct;Sassuolo;4 - 1;Crotone;(1-0)
+Sat 3 Oct;Udinese;0 - 1;AS Roma;(0-0)
+Sun 4 Oct;Atalanta;5 - 2;Cagliari;(4-1)
+Sun 4 Oct;Benevento;1 - 0;Bologna;(0-0)
+Sun 4 Oct;Lazio;1 - 1;Inter Milan;(0-1)
+Sun 4 Oct;Parma;1 - 0;Hellas Verona;(1-0)
+Sun 4 Oct;AC Milan;3 - 0;Spezia;(0-0)
+Sat 17 Oct;Napoli;4 - 1;Atalanta;(4-0)
+Sat 17 Oct;Inter Milan;1 - 2;AC Milan;(1-2)
+Sat 17 Oct;Sampdoria;3 - 0;Lazio;(2-0)
+Sat 17 Oct;Crotone;1 - 1;Juventus;(1-1)
+Sun 18 Oct;Bologna;3 - 4;Sassuolo;(2-1)
+Sun 18 Oct;Spezia;2 - 2;Fiorentina;(1-2)
+Sun 18 Oct;Torino;2 - 3;Cagliari;(1-2)
+Sun 18 Oct;Udinese;3 - 2;Parma;(1-1)
+Sun 18 Oct;AS Roma;5 - 2;Benevento;(2-1)
+Mon 19 Oct;Hellas Verona;0 - 0;Genoa;(0-0)
+Fri 23 Oct;Sassuolo;3 - 3;Torino;(0-1)
+Sat 24 Oct;Atalanta;1 - 3;Sampdoria;(0-1)
+Sat 24 Oct;Genoa;0 - 2;Inter Milan;(0-0)
+Sat 24 Oct;Lazio;2 - 1;Bologna;(0-0)
+Sun 25 Oct;Cagliari;4 - 2;Crotone;(3-2)
+Sun 25 Oct;Benevento;1 - 2;Napoli;(1-0)
+Sun 25 Oct;Parma;2 - 2;Spezia;(1-2)
+Sun 25 Oct;Fiorentina;3 - 2;Udinese;(2-1)
+Sun 25 Oct;Juventus;1 - 1;Hellas Verona;(0-0)
+Mon 26 Oct;AC Milan;3 - 3;AS Roma;(1-1)
+Sat 31 Oct;Crotone;1 - 2;Atalanta;(1-2)
+Sat 31 Oct;Inter Milan;2 - 2;Parma;(0-0)
+Sat 31 Oct;Bologna;3 - 2;Cagliari;(1-1)
+Sun 1 Nov;Udinese;1 - 2;AC Milan;(0-1)
+Sun 1 Nov;Spezia;1 - 4;Juventus;(1-1)
+Sun 1 Nov;Torino;3 - 4;Lazio;(2-1)
+Sun 1 Nov;AS Roma;2 - 0;Fiorentina;(1-0)
+Sun 1 Nov;Napoli;0 - 2;Sassuolo;(0-0)
+Sun 1 Nov;Sampdoria;1 - 1;Genoa;(1-1)
+Mon 2 Nov;Hellas Verona;3 - 1;Benevento;(1-0)
+Wed 4 Nov;Genoa;1 - 2;Torino;(0-2)
+Fri 6 Nov;Sassuolo;0 - 0;Udinese;(0-0)
+Sat 7 Nov;Cagliari;2 - 0;Sampdoria;(0-0)
+Sat 7 Nov;Benevento;0 - 3;Spezia;(0-1)
+Sat 7 Nov;Parma;0 - 0;Fiorentina;(0-0)
+Sun 8 Nov;Lazio;1 - 1;Juventus;(0-1)
+Sun 8 Nov;Atalanta;1 - 1;Inter Milan;(0-0)
+Sun 8 Nov;Genoa;1 - 3;AS Roma;(0-1)
+Sun 8 Nov;Torino;0 - 0;Crotone;(0-0)
+Sun 8 Nov;Bologna;0 - 1;Napoli;(0-1)
+Sun 8 Nov;AC Milan;2 - 2;Hellas Verona;(1-2)
+Sat 21 Nov;Crotone;0 - 2;Lazio;(0-1)
+Sat 21 Nov;Spezia;0 - 0;Atalanta;(0-0)
+Sat 21 Nov;Juventus;2 - 0;Cagliari;(2-0)
+Sun 22 Nov;Fiorentina;0 - 1;Benevento;(0-0)
+Sun 22 Nov;AS Roma;3 - 0;Parma;(3-0)
+Sun 22 Nov;Hellas Verona;0 - 2;Sassuolo;(0-1)
+Sun 22 Nov;Inter Milan;4 - 2;Torino;(0-1)
+Sun 22 Nov;Sampdoria;1 - 2;Bologna;(1-1)
+Sun 22 Nov;Udinese;1 - 0;Genoa;(1-0)
+Sun 22 Nov;Napoli;1 - 3;AC Milan;(0-1)
+Sat 28 Nov;Sassuolo;0 - 3;Inter Milan;(0-2)
+Sat 28 Nov;Benevento;1 - 1;Juventus;(1-1)
+Sat 28 Nov;Atalanta;0 - 2;Hellas Verona;(0-0)
+Sun 29 Nov;Lazio;1 - 3;Udinese;(0-2)
+Sun 29 Nov;AC Milan;2 - 0;Fiorentina;(2-0)
+Sun 29 Nov;Bologna;1 - 0;Crotone;(1-0)
+Sun 29 Nov;Cagliari;2 - 2;Spezia;(0-1)
+Sun 29 Nov;Napoli;4 - 0;AS Roma;(1-0)
+Mon 30 Nov;Torino;2 - 2;Sampdoria;(1-0)
+Mon 30 Nov;Genoa;1 - 2;Parma;(0-1)
+Sat 5 Dec;Spezia;1 - 2;Lazio;(0-2)
+Sat 5 Dec;Juventus;2 - 1;Torino;(0-1)
+Sat 5 Dec;Inter Milan;3 - 1;Bologna;(2-0)
+Sun 6 Dec;Hellas Verona;1 - 1;Cagliari;(1-0)
+Sun 6 Dec;AS Roma;0 - 0;Sassuolo;(0-0)
+Sun 6 Dec;Parma;0 - 0;Benevento;(0-0)
+Sun 6 Dec;Crotone;0 - 4;Napoli;(0-1)
+Sun 6 Dec;Sampdoria;1 - 2;AC Milan;(0-1)
+Mon 7 Dec;Fiorentina;1 - 1;Genoa;(0-0)
+Fri 11 Dec;Sassuolo;1 - 0;Benevento;(1-0)
+Sat 12 Dec;Crotone;4 - 1;Spezia;(1-1)
+Sat 12 Dec;Torino;2 - 3;Udinese;(0-1)
+Sat 12 Dec;Lazio;1 - 2;Hellas Verona;(0-1)
+Sun 13 Dec;Cagliari;1 - 3;Inter Milan;(1-0)
+Sun 13 Dec;Atalanta;3 - 0;Fiorentina;(1-0)
+Sun 13 Dec;Bologna;1 - 5;AS Roma;(1-5)
+Sun 13 Dec;Napoli;2 - 1;Sampdoria;(0-1)
+Sun 13 Dec;Genoa;1 - 3;Juventus;(0-0)
+Sun 13 Dec;AC Milan;2 - 2;Parma;(0-1)
+Tue 15 Dec;Udinese;0 - 0;Crotone;(0-0)
+Tue 15 Dec;Benevento;1 - 1;Lazio;(1-1)
+Wed 16 Dec;Juventus;1 - 1;Atalanta;(1-0)
+Wed 16 Dec;Fiorentina;1 - 1;Sassuolo;(1-1)
+Wed 16 Dec;Genoa;2 - 2;AC Milan;(0-0)
+Wed 16 Dec;Hellas Verona;1 - 2;Sampdoria;(0-1)
+Wed 16 Dec;Inter Milan;1 - 0;Napoli;(0-0)
+Wed 16 Dec;Parma;0 - 0;Cagliari;(0-0)
+Wed 16 Dec;Spezia;2 - 2;Bologna;(1-0)
+Thu 17 Dec;AS Roma;3 - 1;Torino;(2-0)
+Sat 19 Dec;Fiorentina;1 - 1;Hellas Verona;(1-1)
+Sat 19 Dec;Sampdoria;3 - 1;Crotone;(2-1)
+Sat 19 Dec;Parma;0 - 4;Juventus;(0-2)
+Sun 20 Dec;Torino;1 - 1;Bologna;(0-0)
+Sun 20 Dec;Benevento;2 - 0;Genoa;(0-0)
+Sun 20 Dec;Cagliari;1 - 1;Udinese;(1-0)
+Sun 20 Dec;Inter Milan;2 - 1;Spezia;(0-0)
+Sun 20 Dec;Sassuolo;1 - 2;AC Milan;(0-2)
+Sun 20 Dec;Atalanta;4 - 1;AS Roma;(0-1)
+Sun 20 Dec;Lazio;2 - 0;Napoli;(1-0)
+Tue 22 Dec;Crotone;2 - 1;Parma;(2-0)
+Tue 22 Dec;Juventus;0 - 3;Fiorentina;(0-1)
+Wed 23 Dec;Hellas Verona;1 - 2;Inter Milan;(0-0)
+Wed 23 Dec;AC Milan;3 - 2;Lazio;(2-1)
+Wed 23 Dec;AS Roma;3 - 2;Cagliari;(1-0)
+Wed 23 Dec;Bologna;2 - 2;Atalanta;(0-2)
+Wed 23 Dec;Napoli;1 - 1;Torino;(0-0)
+Wed 23 Dec;Sampdoria;2 - 3;Sassuolo;(0-1)
+Wed 23 Dec;Spezia;1 - 2;Genoa;(1-1)
+Wed 23 Dec;Udinese;0 - 2;Benevento;(0-1)
+Sun 3 Jan;Inter Milan;6 - 2;Crotone;(2-2)
+Sun 3 Jan;AS Roma;1 - 0;Sampdoria;(0-0)
+Sun 3 Jan;Atalanta;5 - 1;Sassuolo;(2-0)
+Sun 3 Jan;Cagliari;1 - 4;Napoli;(0-1)
+Sun 3 Jan;Fiorentina;0 - 0;Bologna;(0-0)
+Sun 3 Jan;Genoa;1 - 1;Lazio;(0-1)
+Sun 3 Jan;Parma;0 - 3;Torino;(0-1)
+Sun 3 Jan;Spezia;0 - 1;Hellas Verona;(0-0)
+Sun 3 Jan;Benevento;0 - 2;AC Milan;(0-1)
+Sun 3 Jan;Juventus;4 - 1;Udinese;(1-0)
+Wed 6 Jan;Cagliari;1 - 2;Benevento;(1-2)
+Wed 6 Jan;Atalanta;3 - 0;Parma;(1-0)
+Wed 6 Jan;Bologna;2 - 2;Udinese;(2-1)
+Wed 6 Jan;Crotone;1 - 3;AS Roma;(0-3)
+Wed 6 Jan;Lazio;2 - 1;Fiorentina;(1-0)
+Wed 6 Jan;Sampdoria;2 - 1;Inter Milan;(2-0)
+Wed 6 Jan;Sassuolo;2 - 1;Genoa;(0-0)
+Wed 6 Jan;Torino;1 - 1;Hellas Verona;(0-0)
+Wed 6 Jan;Napoli;1 - 2;Spezia;(0-0)
+Wed 6 Jan;AC Milan;1 - 3;Juventus;(1-1)
+Sat 9 Jan;Benevento;1 - 4;Atalanta;(0-1)
+Sat 9 Jan;Genoa;2 - 0;Bologna;(1-0)
+Sat 9 Jan;AC Milan;2 - 0;Torino;(2-0)
+Sun 10 Jan;AS Roma;2 - 2;Inter Milan;(1-0)
+Sun 10 Jan;Hellas Verona;2 - 1;Crotone;(2-0)
+Sun 10 Jan;Parma;0 - 2;Lazio;(0-0)
+Sun 10 Jan;Udinese;1 - 2;Napoli;(1-1)
+Sun 10 Jan;Fiorentina;1 - 0;Cagliari;(0-0)
+Sun 10 Jan;Juventus;3 - 1;Sassuolo;(0-0)
+Mon 11 Jan;Spezia;2 - 1;Sampdoria;(1-1)
+Fri 15 Jan;Lazio;21:45;AS Roma;
+Sat 16 Jan;Bologna;16:00;Hellas Verona;
+Sat 16 Jan;Torino;19:00;Spezia;
+Sat 16 Jan;Sampdoria;21:45;Udinese;
+Sun 17 Jan;Napoli;13:30;Fiorentina;
+Sun 17 Jan;Crotone;16:00;Benevento;
+Sun 17 Jan;Sassuolo;16:00;Parma;
+Sun 17 Jan;Atalanta;19:00;Genoa;
+Sun 17 Jan;Inter Milan;21:45;Juventus;
+Mon 18 Jan;Cagliari;21:45;AC Milan;
+Wed 20 Jan;Udinese;16:00;Atalanta;
+Fri 22 Jan;Benevento;21:45;Torino;
+Sat 23 Jan;AS Roma;16:00;Spezia;
+Sat 23 Jan;AC Milan;19:00;Atalanta;
+Sat 23 Jan;Udinese;19:00;Inter Milan;
+Sat 23 Jan;Fiorentina;21:45;Crotone;
+Sun 24 Jan;Juventus;13:30;Bologna;
+Sun 24 Jan;Genoa;16:00;Cagliari;
+Sun 24 Jan;Hellas Verona;16:00;Napoli;
+Sun 24 Jan;Lazio;19:00;Sassuolo;
+Sun 24 Jan;Parma;21:45;Sampdoria;
+Fri 29 Jan;Torino;21:45;Fiorentina;
+Sat 30 Jan;Bologna;16:00;AC Milan;
+Sat 30 Jan;Cagliari;16:00;Sassuolo;
+Sat 30 Jan;Crotone;16:00;Genoa;
+Sat 30 Jan;Sampdoria;19:00;Juventus;
+Sat 30 Jan;Inter Milan;21:45;Benevento;
+Sun 31 Jan;Spezia;13:30;Udinese;
+Sun 31 Jan;Atalanta;16:00;Lazio;
+Sun 31 Jan;Napoli;19:00;Parma;
+Sun 31 Jan;AS Roma;21:45;Hellas Verona;
+Fri 5 Feb;AC Milan;21:45;Crotone;
+Fri 5 Feb;Fiorentina;21:45;Inter Milan;
+Sat 6 Feb;Atalanta;16:00;Torino;
+Sat 6 Feb;Sassuolo;16:00;Spezia;
+Sat 6 Feb;Juventus;19:00;AS Roma;
+Sat 6 Feb;Genoa;21:45;Napoli;
+Sun 7 Feb;Benevento;13:30;Sampdoria;
+Sun 7 Feb;Udinese;16:00;Hellas Verona;
+Sun 7 Feb;Parma;19:00;Bologna;
+Sun 7 Feb;Lazio;21:45;Cagliari;
+Fri 12 Feb;Bologna;21:45;Benevento;
+Sat 13 Feb;Torino;16:00;Genoa;
+Sat 13 Feb;Napoli;19:00;Juventus;
+Sat 13 Feb;Spezia;21:45;AC Milan;
+Sun 14 Feb;AS Roma;13:30;Udinese;
+Sun 14 Feb;Cagliari;16:00;Atalanta;
+Sun 14 Feb;Sampdoria;16:00;Fiorentina;
+Sun 14 Feb;Crotone;19:00;Sassuolo;
+Sun 14 Feb;Inter Milan;21:45;Lazio;
+Mon 15 Feb;Hellas Verona;21:45;Parma;
+Fri 19 Feb;Fiorentina;19:30;Spezia;
+Fri 19 Feb;Cagliari;21:45;Torino;
+Sat 20 Feb;Lazio;16:00;Sampdoria;
+Sat 20 Feb;Genoa;19:00;Hellas Verona;
+Sat 20 Feb;Sassuolo;21:45;Bologna;
+Sun 21 Feb;Parma;13:30;Udinese;
+Sun 21 Feb;AC Milan;16:00;Inter Milan;
+Sun 21 Feb;Atalanta;19:00;Napoli;
+Sun 21 Feb;Benevento;21:45;AS Roma;
+Mon 22 Feb;Juventus;21:45;Crotone;
+Fri 26 Feb;Torino;21:45;Sassuolo;
+Sat 27 Feb;Spezia;16:00;Parma;
+Sat 27 Feb;Bologna;19:00;Lazio;
+Sat 27 Feb;Hellas Verona;21:45;Juventus;
+Sun 28 Feb;Sampdoria;13:30;Atalanta;
+Sun 28 Feb;Crotone;16:00;Cagliari;
+Sun 28 Feb;Inter Milan;16:00;Genoa;
+Sun 28 Feb;Udinese;16:00;Fiorentina;
+Sun 28 Feb;Napoli;19:00;Benevento;
+Sun 28 Feb;AS Roma;21:45;AC Milan;
+Tue 2 Mar;Juventus;02:00;Spezia;
+Tue 2 Mar;Lazio;02:00;Torino;
+Wed 3 Mar;AC Milan;02:00;Udinese;
+Wed 3 Mar;Atalanta;02:00;Crotone;
+Wed 3 Mar;Benevento;02:00;Hellas Verona;
+Wed 3 Mar;Cagliari;02:00;Bologna;
+Wed 3 Mar;Fiorentina;02:00;AS Roma;
+Wed 3 Mar;Genoa;02:00;Sampdoria;
+Wed 3 Mar;Sassuolo;02:00;Napoli;
+Thu 4 Mar;Parma;02:00;Inter Milan;
+Sat 6 Mar;Spezia;16:00;Benevento;
+Sat 6 Mar;Udinese;19:00;Sassuolo;
+Sat 6 Mar;Juventus;21:45;Lazio;
+Sun 7 Mar;AS Roma;13:30;Genoa;
+Sun 7 Mar;Crotone;16:00;Torino;
+Sun 7 Mar;Fiorentina;16:00;Parma;
+Sun 7 Mar;Hellas Verona;16:00;AC Milan;
+Sun 7 Mar;Sampdoria;19:00;Cagliari;
+Sun 7 Mar;Napoli;21:45;Bologna;
+Mon 8 Mar;Inter Milan;21:45;Atalanta;
+Fri 12 Mar;Lazio;16:00;Crotone;
+Fri 12 Mar;Atalanta;21:45;Spezia;
+Sat 13 Mar;Sassuolo;16:00;Hellas Verona;
+Sat 13 Mar;Benevento;19:00;Fiorentina;
+Sat 13 Mar;Genoa;21:45;Udinese;
+Sun 14 Mar;Bologna;13:30;Sampdoria;
+Sun 14 Mar;Parma;16:00;AS Roma;
+Sun 14 Mar;Torino;16:00;Inter Milan;
+Sun 14 Mar;Cagliari;19:00;Juventus;
+Sun 14 Mar;AC Milan;21:45;Napoli;
+Fri 19 Mar;Parma;21:45;Genoa;
+Sat 20 Mar;Crotone;16:00;Bologna;
+Sat 20 Mar;Spezia;19:00;Cagliari;
+Sat 20 Mar;Inter Milan;21:45;Sassuolo;
+Sun 21 Mar;Hellas Verona;13:30;Atalanta;
+Sun 21 Mar;Juventus;16:00;Benevento;
+Sun 21 Mar;Sampdoria;16:00;Torino;
+Sun 21 Mar;Udinese;16:00;Lazio;
+Sun 21 Mar;Fiorentina;19:00;AC Milan;
+Sun 21 Mar;AS Roma;21:45;Napoli;
+Sat 3 Apr;AC Milan;12:30;Sampdoria;
+Sat 3 Apr;Atalanta;15:00;Udinese;
+Sat 3 Apr;Benevento;15:00;Parma;
+Sat 3 Apr;Cagliari;15:00;Hellas Verona;
+Sat 3 Apr;Genoa;15:00;Fiorentina;
+Sat 3 Apr;Lazio;15:00;Spezia;
+Sat 3 Apr;Napoli;15:00;Crotone;
+Sat 3 Apr;Sassuolo;15:00;AS Roma;
+Sat 3 Apr;Torino;18:00;Juventus;
+Sat 3 Apr;Bologna;20:45;Inter Milan;
+Sun 11 Apr;AS Roma;02:00;Bologna;
+Sun 11 Apr;Benevento;02:00;Sassuolo;
+Sun 11 Apr;Fiorentina;02:00;Atalanta;
+Sun 11 Apr;Hellas Verona;02:00;Lazio;
+Sun 11 Apr;Inter Milan;02:00;Cagliari;
+Sun 11 Apr;Juventus;02:00;Genoa;
+Sun 11 Apr;Parma;02:00;AC Milan;
+Sun 11 Apr;Sampdoria;02:00;Napoli;
+Sun 11 Apr;Spezia;02:00;Crotone;
+Sun 11 Apr;Udinese;02:00;Torino;
+Sun 18 Apr;AC Milan;02:00;Genoa;
+Sun 18 Apr;Atalanta;02:00;Juventus;
+Sun 18 Apr;Bologna;02:00;Spezia;
+Sun 18 Apr;Cagliari;02:00;Parma;
+Sun 18 Apr;Crotone;02:00;Udinese;
+Sun 18 Apr;Lazio;02:00;Benevento;
+Sun 18 Apr;Sampdoria;02:00;Hellas Verona;
+Sun 18 Apr;Sassuolo;02:00;Fiorentina;
+Sun 18 Apr;Torino;02:00;AS Roma;
+Sun 18 Apr;Napoli;20:45;Inter Milan;
+Wed 21 Apr;AC Milan;02:00;Sassuolo;
+Wed 21 Apr;AS Roma;02:00;Atalanta;
+Wed 21 Apr;Bologna;02:00;Torino;
+Wed 21 Apr;Crotone;02:00;Sampdoria;
+Wed 21 Apr;Genoa;02:00;Benevento;
+Wed 21 Apr;Hellas Verona;02:00;Fiorentina;
+Wed 21 Apr;Juventus;02:00;Parma;
+Wed 21 Apr;Napoli;02:00;Lazio;
+Wed 21 Apr;Spezia;02:00;Inter Milan;
+Wed 21 Apr;Udinese;02:00;Cagliari;
+Sun 25 Apr;Atalanta;02:00;Bologna;
+Sun 25 Apr;Benevento;02:00;Udinese;
+Sun 25 Apr;Cagliari;02:00;AS Roma;
+Sun 25 Apr;Fiorentina;02:00;Juventus;
+Sun 25 Apr;Genoa;02:00;Spezia;
+Sun 25 Apr;Inter Milan;02:00;Hellas Verona;
+Sun 25 Apr;Lazio;02:00;AC Milan;
+Sun 25 Apr;Parma;02:00;Crotone;
+Sun 25 Apr;Sassuolo;02:00;Sampdoria;
+Sun 25 Apr;Torino;02:00;Napoli;
+Sun 2 May;AC Milan;02:00;Benevento;
+Sun 2 May;Bologna;02:00;Fiorentina;
+Sun 2 May;Crotone;02:00;Inter Milan;
+Sun 2 May;Hellas Verona;02:00;Spezia;
+Sun 2 May;Lazio;02:00;Genoa;
+Sun 2 May;Napoli;02:00;Cagliari;
+Sun 2 May;Sampdoria;02:00;AS Roma;
+Sun 2 May;Sassuolo;02:00;Atalanta;
+Sun 2 May;Torino;02:00;Parma;
+Sun 2 May;Udinese;02:00;Juventus;
+Sun 9 May;AS Roma;02:00;Crotone;
+Sun 9 May;Benevento;02:00;Cagliari;
+Sun 9 May;Fiorentina;02:00;Lazio;
+Sun 9 May;Genoa;02:00;Sassuolo;
+Sun 9 May;Hellas Verona;02:00;Torino;
+Sun 9 May;Inter Milan;02:00;Sampdoria;
+Sun 9 May;Parma;02:00;Atalanta;
+Sun 9 May;Spezia;02:00;Napoli;
+Sun 9 May;Udinese;02:00;Bologna;
+Sun 9 May;Juventus;20:45;AC Milan;
+Wed 12 May;Atalanta;02:00;Benevento;
+Wed 12 May;Bologna;02:00;Genoa;
+Wed 12 May;Cagliari;02:00;Fiorentina;
+Wed 12 May;Crotone;02:00;Hellas Verona;
+Wed 12 May;Lazio;02:00;Parma;
+Wed 12 May;Napoli;02:00;Udinese;
+Wed 12 May;Sampdoria;02:00;Spezia;
+Wed 12 May;Sassuolo;02:00;Juventus;
+Wed 12 May;Torino;02:00;AC Milan;
+Wed 12 May;Inter Milan;19:45;AS Roma;
+Sun 16 May;AC Milan;02:00;Cagliari;
+Sun 16 May;AS Roma;02:00;Lazio;
+Sun 16 May;Benevento;02:00;Crotone;
+Sun 16 May;Fiorentina;02:00;Napoli;
+Sun 16 May;Genoa;02:00;Atalanta;
+Sun 16 May;Hellas Verona;02:00;Bologna;
+Sun 16 May;Parma;02:00;Sassuolo;
+Sun 16 May;Spezia;02:00;Torino;
+Sun 16 May;Udinese;02:00;Sampdoria;
+Sun 16 May;Juventus;20:45;Inter Milan;
+Sun 23 May;Atalanta;02:00;AC Milan;
+Sun 23 May;Bologna;02:00;Juventus;
+Sun 23 May;Cagliari;02:00;Genoa;
+Sun 23 May;Crotone;02:00;Fiorentina;
+Sun 23 May;Inter Milan;02:00;Udinese;
+Sun 23 May;Napoli;02:00;Hellas Verona;
+Sun 23 May;Sampdoria;02:00;Parma;
+Sun 23 May;Sassuolo;02:00;Lazio;
+Sun 23 May;Spezia;02:00;AS Roma;
+Sun 23 May;Torino;02:00;Benevento;
